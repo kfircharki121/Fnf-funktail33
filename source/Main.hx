@@ -32,8 +32,8 @@ using StringTools;
 class Main extends Sprite
 {
 	var game = {
-		width: 1280,
-		height: 720,
+		width: 720,
+		height: 1280,
 		initialState: CacheState,
 		zoom: -1.0,
 		framerate: 60,
